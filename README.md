@@ -1,3 +1,23 @@
+## Setup and How to Run
+
+1. Clone repository
+git clone https://github.com/Kavyabansal01/crypto-sentiment-analysis.git
+cd crypto-sentiment-analysis
+
+2. Create conda environment
+conda create -n crypto-env python=3.10
+conda activate crypto-env
+
+3. Install dependencies
+pip install -r requirements.txt
+
+4. Run notebook
+jupyter notebook
+
+Open notebook.ipynb and run all cells.
+
+Outputs will be saved in outputs/ folder.
+
 # Crypto Sentiment Analysis
 
 ## Objective
